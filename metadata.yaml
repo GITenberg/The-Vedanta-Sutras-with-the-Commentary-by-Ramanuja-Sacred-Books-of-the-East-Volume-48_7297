@@ -1,0 +1,31 @@
+_repo: The-Vedanta-Sutras-with-the-Commentary-by-Ramanuja-Sacred-Books-of-the-East-Volume-48_7297
+contributor:
+  commentator:
+    agent_name: Ramanuja
+    birthdate: 1017
+    deathdate: 1137
+    gutenberg_agent_id: '38891'
+    url: http://www.gutenberg.org/2009/agents/38891
+  translator:
+    agent_name: Thibaut, G. (George)
+    alias: Thibaut, George Frederick William
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '2412'
+    url: http://www.gutenberg.org/2009/agents/2412
+description: ''
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vedanta'
+- !lcc 'BL'
+title: The Vedanta-Sutras with the Commentary by Ramanuja — Sacred Books of the East,
+  Volume 48
+url: http://www.gutenberg.org/ebooks/7297
