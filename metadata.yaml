@@ -1,4 +1,5 @@
 _repo: The-Vedanta-Sutras-with-the-Commentary-by-Ramanuja-Sacred-Books-of-the-East-Volume-48_7297
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Ramanuja
@@ -13,7 +14,12 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '2412'
     url: http://www.gutenberg.org/2009/agents/2412
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7297#The-Vedanta-Sutras-with-the-Commentary-by-Ramanuja-Sacred-Books-of-the-East-Volume-48
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
